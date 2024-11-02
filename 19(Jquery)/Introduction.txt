@@ -1,0 +1,3 @@
+Jquery is a javascript library
+
+John Resig is a creator of jquery library
